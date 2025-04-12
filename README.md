@@ -39,7 +39,7 @@ Here's how to get it running:
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/your-username/n8n-railway.git
+git clone https://github.com/maneja81/n8n-railway.git
 cd n8n-railway
 ```
 
