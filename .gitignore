@@ -1,0 +1,5 @@
+.DS_Store
+*.zip
+n8n_data
+.env
+.env.prod
